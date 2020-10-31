@@ -2,7 +2,7 @@
   "name": "vestoid-theme",
   "description": "Updates the VestaCP theme to an enhanced version.",
   "version": "0.1.0",
-  "min-vesta": "0.9.8",
+  "min-vesta": "0.0.24",
   "repository": "https://github.com/jhmaverick/vestoid-theme",
   "homepage": "https://github.com/jhmaverick/vestoid-theme#readme",
   "author": {
